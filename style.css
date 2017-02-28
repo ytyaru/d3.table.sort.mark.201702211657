@@ -1,0 +1,8 @@
+#NameList { border-collapse: collapse; }
+#NameList th { background-color: #CCC; }
+#NameList td, 
+#NameList th {
+  border-collapse: collapse;
+  border: 1px #CCC dotted;
+  padding: 6px;
+}
